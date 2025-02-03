@@ -28,19 +28,23 @@ Sample output tumor segmentation images are given below:<img width="596" alt="ou
 |*Figure 1: Output Result*|
 
 ## How To Use?
+```bash
 # Clone this repository
 $ git clone 
 
 # download dataset from 
- # https://drive.google.com/file/d/1I1LR7XjyEZ-VBQ-Xruh31V7xExMjlVvi/view?usp=sharing
+#  https://drive.google.com/file/d/1I1LR7XjyEZ-VBQ-Xruh31V7xExMjlVvi/view?usp=sharing
 # create data folder in root directory
 $ mkdir data
+
 # unzip dataset in data folder
 $ unzip data.zip -d data
+
 # open jupyter notebook
 $ jupyter-notebook
 
 # open any-file.ipynb
+```
 ## 🔧 Tools and Technology
 - ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 - ![Pytorch](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
