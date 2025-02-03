@@ -17,13 +17,15 @@ dataset, which includes a wide range of annotated CT scans. This dataset is wide
 The [SegUNet model](https://docs.google.com/document/d/1ngOpqQ98q2Mx6_RXanPms5LvOj6k4NrwkwPMZQ-WqeA/edit?usp=sharing) combines the strengths of U-Net with advanced segmentation techniques:
 Encoder-Decoder Structure: Captures contextual information while preserving spatial details.
 Skip Connections: Enhances feature propagation for accurate boundary detection.
-<img width="596" alt="SegUNet Architecture" src="https://github.com/user-attachments/assets/d3dea966-6f03-4824-b622-30da0c8e9bc8" />
-
+<img width="428" alt="SegUNet Architecture" src="https://github.com/user-attachments/assets/b878b592-e9fd-4d5e-8465-9add874e4483" />
+|:--:|
+|*Figure 1: SegUNet Architecture*|
 # Training setup
 We trained single-contrast 3D CT scans of lung tumors from 130 different subjects (approximately 58,500 slices) using the Ubuntu 22.04 operating system with an NVIDIA RTX 4070 Ti GPU card. 
 
 # output 
-Sample output tumor segmentation images are given below:<img width="596" alt="output" src="https://github.com/user-attachments/assets/9a671ec7-19f9-429d-8fbf-d15cb90fa7b6" />
+Sample output tumor segmentation images are given below:
+<img width="453" alt="output" src="https://github.com/user-attachments/assets/50783620-3cae-4b17-902b-afdf2a273caf" />
 |:--:|
 |*Figure 1: Output Result*|
 
