@@ -24,6 +24,16 @@ We trained single-contrast 3D CT scans of lung tumors from 130 different subject
 
 # output 
 Sample output tumor segmentation images are given below:<img width="596" alt="output" src="https://github.com/user-attachments/assets/9a671ec7-19f9-429d-8fbf-d15cb90fa7b6" />
+
+## 🔧 Tools and Technology
+- ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+- ![Pytorch](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+- ![Jupyter Notebook](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+- ![Numpy](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+- ![Matplotlib](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
+- ![Kaggle](https://img.shields.io/badge/Tools-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=2bbc8a)
+- ![Github](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+- ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 # 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
