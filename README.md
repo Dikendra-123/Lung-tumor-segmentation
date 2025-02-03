@@ -1,1 +1,1 @@
-# Lung-tumor-segmentation
+Lung Tumor Segmentation
