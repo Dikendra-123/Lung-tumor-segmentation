@@ -27,7 +27,7 @@ Sample output tumor segmentation images are given below:<img width="596" alt="ou
 |:--:|
 |*Figure 1: Output Result*|
 
-# How To Use?
+## How To Use?
 # Clone this repository
 $ git clone 
 
