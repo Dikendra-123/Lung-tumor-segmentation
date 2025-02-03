@@ -23,9 +23,7 @@ Skip Connections: Enhances feature propagation for accurate boundary detection.
 We trained single-contrast 3D CT scans of lung tumors from 130 different subjects (approximately 58,500 slices) using the Ubuntu 22.04 operating system with an NVIDIA RTX 4070 Ti GPU card. 
 
 # output 
-Sample output tumor segmentation images are given below:
-<img width="596" alt="output" src="https://github.com/user-attachments/assets/9a671ec7-19f9-429d-8fbf-d15cb90fa7b6" />
-
-## 📝 License
+Sample output tumor segmentation images are given below:<img width="596" alt="output" src="https://github.com/user-attachments/assets/9a671ec7-19f9-429d-8fbf-d15cb90fa7b6" />
+# 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
